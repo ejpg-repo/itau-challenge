@@ -1,0 +1,12 @@
+# eclipse settings
+.classpath
+.settings
+.project
+
+# intellij settings
+.idea
+
+# maven directtory
+target
+
+
